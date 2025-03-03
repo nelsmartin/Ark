@@ -402,3 +402,4 @@ FodyWeavers.xsd
 *.txt
 *__pycache__
 *.ipynb_checkpoints
+*.DS_Store
